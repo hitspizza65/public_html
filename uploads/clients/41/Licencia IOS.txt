@@ -1,0 +1,9 @@
+Paso 1:
+Crear cuenta Apple ID
+https://appleid.apple.com/
+
+
+Paso 2
+
+Una vez creado el Apple id ingresar al siguiente portal para adquirir la licencia de desarrollador
+https://developer.apple.com/register/agree/?path=%2Fcontact%2F
